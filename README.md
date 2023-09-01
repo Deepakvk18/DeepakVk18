@@ -6,7 +6,7 @@ A
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVk18)](https://github.com/DeepakVk18/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVk18&layout=donut)](https://github.com/DeepakVk18/github-readme-stats)
 
 
 <!--
